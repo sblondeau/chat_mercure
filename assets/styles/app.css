@@ -1,0 +1,9 @@
+header {
+    background-image: url('https://placekitten.com/1300/380');
+    background-size: cover;
+    h1, h2 {
+        background-color: var(--pico-background-color);
+        width: fit-content;
+        padding: var(--pico-spacing);
+    }
+}
